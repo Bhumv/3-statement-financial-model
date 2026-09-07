@@ -1,7 +1,7 @@
 # 3-statement-financial-model
 5-year integrated 3-statement financial model with historical analysis, forecast financial statements, working capital, PP&E, debt and equity schedules, and Best/Base/Worst case scenario analysis built in Excel.
 
-Project Overview
+**Project Overview**
 
 An Excel-based integrated financial model built to analyze historical
 financial performance and forecast a company's financial statements over
@@ -15,7 +15,7 @@ Historical period: 2014--2016
 Forecast period: 2017--2021
 Currency: $ in millions
 
-Objectives
+**Objectives**
 
 Analyze historical financial performance.
 
@@ -42,9 +42,9 @@ Validate the model through automated reconciliation checks.
 
 Present key outputs through an Excel dashboard.
 
-Model Structure
+**Model Structure**
 
-Income Statement
+**Income Statement**
 
 The P&L contains historical results for 2014--2016 and a five-year
 forecast for 2017--2021.
@@ -56,7 +56,7 @@ The forecast uses scenario-driven operating assumptions, including
 Revenue Growth, COGS as a percentage of Revenue, and Operating Expenses
 as a percentage of Revenue.
 
-Balance Sheet
+**Balance Sheet**
 
 The Balance Sheet forecasts:
 
@@ -82,7 +82,7 @@ Equity
 
 Working-capital assumptions include DSO, DIO, and DPO.
 
-Cash Flow Statement
+**Cash Flow Statement**
 
 The model includes historical cash-flow reconciliation and a forecast
 cash-flow schedule.
@@ -99,15 +99,15 @@ liabilities, and equity movements.
 Ending cash is linked back to the Balance Sheet to maintain
 three-statement integration.
 
-Supporting Schedules
+**Supporting Schedules**
 
-PP&E Schedule
+**PP&E Schedule**
 
 The PP&E roll-forward follows:
 
 Beginning PP&E + Capex − D&A = Ending PP&E
 
-Financial Liabilities Schedule
+**Financial Liabilities Schedule**
 
 Includes:
 
@@ -125,7 +125,7 @@ Debt repayment schedule
 
 Residual Debt
 
-Equity Schedule
+**Equity Schedule**
 
 Includes:
 
@@ -139,20 +139,20 @@ Dividends
 
 Ending Equity
 
-Cash Schedule
+**Cash Schedule**
 
 A dedicated cash schedule links operating, investing, and financing
 movements to forecast net cash flow.
 
-Scenario Analysis
+**Scenario Analysis**
 
 The model contains a dynamic selector for:
 
-Best Case
++ Best Case
 
-Base Case
++ Base Case
 
-Worst Case
++ Worst Case
 
 Scenario assumptions are applied to key operating drivers such as
 Revenue Growth, COGS as a percentage of Revenue, and Operating Expenses
@@ -162,11 +162,11 @@ The selector allows the user to assess how different operating
 assumptions flow through the forecast financial statements and
 profitability.
 
-Financial Analysis
+**Financial Analysis**
 
 The Financial Analysis sheet evaluates:
 
-Growth
+**Growth**
 
 Revenue Growth
 
@@ -174,7 +174,7 @@ EBITDA Growth
 
 Net Income Growth
 
-Profitability
+**Profitability**
 
 Gross Margin
 
@@ -192,13 +192,13 @@ Debt / Equity
 
 Interest Coverage
 
-Efficiency
+**Efficiency**
 
 Cash Conversion Cycle
 
 CCC = DSO + DIO − DPO
 
-Dashboard
+**Dashboard**
 
 The dashboard provides a concise view of:
 
@@ -217,7 +217,7 @@ Free Cash Flow trend
 It distinguishes historical performance from the 2017--2021 forecast
 period.
 
-Model Validation & Checks
+**Model Validation & Checks**
 
 The model includes reconciliation checks for:
 
@@ -236,7 +236,7 @@ Historical Cash Flow reconciliation
 These checks help identify broken links and maintain internal
 consistency.
 
-Key Excel Skills Demonstrated
+**Key Excel Skills Demonstrated**
 
 Financial statement modelling
 
@@ -266,11 +266,11 @@ Dashboard development
 
 Model validation and error checks
 
-Tools
+**Tools**
 
 Microsoft Excel
 
-Project Outcome
+**Project Outcome**
 
 The completed model provides an integrated view of historical
 performance and five-year forecast financials, while allowing users to
